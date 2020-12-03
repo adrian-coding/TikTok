@@ -32,7 +32,7 @@ push();
   line(0,0,50,0);
   pop();
   push();
-  rotate(minAngle);
+  rotate(mnAngle);
   stroke(255,0,0);
   strokeWeight(7); 
   line(0,0,75,0);
